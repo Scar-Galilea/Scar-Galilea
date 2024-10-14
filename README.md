@@ -1,4 +1,5 @@
 -![image](https://github.com/user-attachments/assets/00113d04-4e80-46bc-b982-536d9dfe2cc3)
+
 👋 Hola, soy Galilea Peralta Contreras.
 - 👀 Estoy interesado en conocer nuevos lenguajes de programación.
 - 🌱Actualmente estoy aprendiendo a usar nuevas plataformas como lo es Pycharm y GitHud.
