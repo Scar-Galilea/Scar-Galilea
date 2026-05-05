@@ -10,8 +10,6 @@
 ## Sobre mí
 
 Estudiante de Licenciatura en Informática (6° semestre), con interés en el desarrollo de software, aplicaciones y tecnologías web.  
-Enfocada en el aprendizaje continuo y en la construcción de soluciones prácticas mediante proyectos académicos y personales.
-
 
 ## Tecnologías y herramientas
 
@@ -27,11 +25,6 @@ Enfocada en el aprendizaje continuo y en la construcción de soluciones práctic
 - Aplicación con conexión Bluetooth (Kivy)  
 - Analizador léxico y sintáctico (Python)  
 - Sitio web de recetas (HTML, CSS, JavaScript, LocalStorage)  
-
-
-## Colaboración
-
-Interesada en participar en proyectos de desarrollo web, aplicaciones en Python y proyectos académicos.
 
 
 ## Contacto
