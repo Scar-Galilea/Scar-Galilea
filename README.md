@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.freepik.es/vector-premium/gato-dibujos-animados-lindo-escribiendo-computadora-portatil-felino-alegre-computadora-trabajo-gatito-adorable-utiliza-tecnologia_212265619.htm" alt="banner" width="600"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjUac681dGlUY8iMwp4RD0Ak2CVUf4zHvCnw&s" alt="banner" width="600"/>
 </p>
 
 <h1 align="center">Galilea Peralta Contreras</h1>
