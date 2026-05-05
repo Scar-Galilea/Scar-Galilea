@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://github.com/Scar-Galilea">
-    <img src="https://img.shields.io/github/followers/Scar-Galilea?label=Seguidores&style=social" />
   </a>
 </p>
 
