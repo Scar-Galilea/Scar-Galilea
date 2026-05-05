@@ -14,7 +14,7 @@ Estudiante de Licenciatura en Informática (6° semestre), con interés en el de
 ## Tecnologías y herramientas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,git,github" />
 </p>
 
 
