@@ -37,10 +37,12 @@ Enfocada en el aprendizaje continuo y en la construcción de soluciones práctic
 ## Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Scar-Galilea&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scar-Galilea&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Scar-Galilea&show_icons=true&count_private=true&include_all_commits=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scar-Galilea&layout=compact&hide_border=true" />
+</p>
 ---
 
 ## Colaboración
