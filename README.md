@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://pin.it/4qxtoG3L5" alt="banner" width="600"/>
+</p>
+
 <h1 align="center">Galilea Peralta Contreras</h1>
 <p align="center">Estudiante de Informática | Desarrolladora en formación</p>
 
