@@ -10,7 +10,7 @@
 </p>
 
 
-Curso el sexto semestre de la carrera, siempre busco aprender y profundizar en el mundo de la programación además estoy interesada en descubrir los secretos detrás del código.
+Actualmente curso el sexto semestre y me gusta seguir aprendiendo y profundizando en programación, entendiendo cada vez más lo que hay detrás del código.
 
 ## Tecnologías y herramientas
 
