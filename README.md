@@ -10,9 +10,7 @@
 </p>
 
 
-## Sobre mí
-
-Estudiante de Licenciatura en Informática (6° semestre), con interés en el desarrollo de software, aplicaciones y tecnologías web.  
+Curso el sexto semestre de la carrera, siempre busco aprender y profundizar en el mundo de la programación además estoy interesada en descubrir los secretos detrás del código.
 
 ## Tecnologías y herramientas
 
